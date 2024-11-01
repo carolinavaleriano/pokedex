@@ -1,8 +1,11 @@
+![Cover](https://github.com/user-attachments/assets/3e3b6e83-0c56-461d-aca3-66cc632e81d4)
+
 <h4 align="center">
 	🏁  Pokedex 🏁
 </h4>
 
 ## 💻 Sobre o projeto
+
 
 A Pokedex tem a finalidade de listar e informar detalhes dos pokemons.
 
@@ -31,7 +34,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone
+$ git clone https://github.com/carolinavaleriano/pokedex.git
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd pokedex
 # Instale as dependências
